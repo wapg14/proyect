@@ -197,14 +197,25 @@ h5 {
     header {
         padding: 41% 0% 0% 10%;
     }
-    #servicios>div {
+    .servicios>div {
         display: inline-block;
-        width: 48%;
+        width: 90%;
         vertical-align: top;
         text-align: justify;
     }
     h2 {
         text-align: center;
+    }
+    .form {
+        display: inline-block;
+        width: 90%;
+        padding: 3% 0% 0% 3%;
+    }
+    .datos {
+        display: inline-block;
+        width: 90%;
+        vertical-align: top;
+        padding: 10% 0% 0% 0%;
     }
 }
 
